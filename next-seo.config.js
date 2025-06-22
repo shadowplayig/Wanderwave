@@ -1,0 +1,1 @@
+// SEO and OpenGraph metadata config

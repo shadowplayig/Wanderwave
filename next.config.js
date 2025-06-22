@@ -1,0 +1,1 @@
+// Next.js config with i18n, images, and rewrites

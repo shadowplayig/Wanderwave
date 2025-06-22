@@ -1,0 +1,1 @@
+// Inline affiliate product ad

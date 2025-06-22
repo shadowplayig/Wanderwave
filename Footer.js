@@ -1,0 +1,1 @@
+// Footer with social icons and copyright

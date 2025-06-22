@@ -1,0 +1,1 @@
+// Search input for filtering blog posts

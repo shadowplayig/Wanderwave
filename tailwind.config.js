@@ -1,0 +1,1 @@
+// Tailwind config with custom colors and dark mode

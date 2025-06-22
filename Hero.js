@@ -1,0 +1,1 @@
+// Hero banner with featured tagline
